@@ -1,5 +1,5 @@
 # -senacU13-aula10
-Aula 10: Desenvolvimento para web 2 - Verbos HTTP e arquitetura MvC
+Aula 10: Desenvolvimento para web 2 arquitetura MvC
 
 Exercício 01
 Usando o Server.js como arquivo base, acesse o JSON 
